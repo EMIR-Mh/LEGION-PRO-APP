@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39419235683",
+    "project_id": "legion-pro-xx",
+    "storage_bucket": "legion-pro-xx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39419235683:android:5b199687de4b16ba139756",
+        "android_client_info": {
+          "package_name": "com.example.legionproxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39419235683-8gpdrq2bbjsh15pcs6utdnu7hefritiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64n53O0Dx_XIGASCm6ddmSbwxjVzYJW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39419235683-8gpdrq2bbjsh15pcs6utdnu7hefritiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
